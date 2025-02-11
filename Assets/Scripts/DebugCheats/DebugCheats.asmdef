@@ -1,0 +1,17 @@
+{
+    "name": "DebugCheats",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1491147abca9d7d4bb7105af628b223e",
+        "GUID:b705d580578371a42b037d966fa0f966"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
